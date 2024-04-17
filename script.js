@@ -1,3 +1,5 @@
+
+
 function generatePassword() {
     var length = 8;
     var charset = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()_+{}|:<>?";
